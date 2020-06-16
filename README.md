@@ -2,6 +2,8 @@
 
 This repository containst the submission for the assignment for week 4 of Getting and Cleaning Data Coursera course.
 
+# Getting and Cleaning Data Week 4 Assignment
+
 
 # Data description
 The variables in the data X are sensor signals measured with waist-mounted smartphone from 30 subjects. The variable in the data Y indicates activity type the subjects performed during recording.
